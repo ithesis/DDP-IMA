@@ -50,11 +50,12 @@ main h2{
 }
 
 main p{
-	font-family: "sans-serif";
+	font-family: sans-serif;
+	font-size: 35px;
 }
 
 main li{
-	font-family: "FZPangWa-M18S";
+	font-family: "";
 }
 
 main a{
