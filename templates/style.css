@@ -8,9 +8,10 @@ body {
 /*Header section*/
 
 header{
-	background-image: url("image/2.png");
-	background-size: cover;
-	text-align: inherit;
+	background-image: url("2.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
