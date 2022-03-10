@@ -38,6 +38,7 @@ main{
 
 main img{
 	max-width: 100%;
+	position: absolute;
 }
 
 main h2{
