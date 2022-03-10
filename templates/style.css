@@ -55,7 +55,7 @@ main p{
 }
 
 main li{
-	font-family: sans-serif;
+	font-family: inherit;
 }
 
 main a{
