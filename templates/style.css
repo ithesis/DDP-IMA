@@ -48,8 +48,13 @@ main h2{
 	font-style: oblique;
 	margin: 40px 0 10px;
 }
+
 main p{
 	font-family: "FZKaTong-M19S";
+}
+
+main li{
+	font-family: "FZPangWa-M18S";
 }
 
 main a{
