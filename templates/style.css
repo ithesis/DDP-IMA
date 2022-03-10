@@ -43,13 +43,13 @@ main img{
 }
 
 main h2{
-	font-size: 30px;
-	font-style: oblique
+	font-size: 40px;
+	font-style: oblique;
 	margin: 40px 0 10px;
 }
 
 main a{
-	color: blue;
+	color: balck;
 }
 
 main a:hover{
@@ -59,7 +59,7 @@ main a:hover{
 
 p.caption{
 	margin-top: 0;
-	color:  grey;
+	color: grey;
 	font-style: italic;
 	font-size: 20px;
 }
