@@ -1,0 +1,77 @@
+body {
+	margin: 0;
+	line-height: 30px;
+}
+
+/*Header section*/
+
+header{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/4f/TEAM_WANG.png);
+	background-position: center;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color:  white;
+	font-size: 50px;
+	font-style: oblique;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 10px solid white;
+}
+
+/*Main section*/
+main{
+	background-color: seagreen;
+	background-size: cover;
+	max-width: 1500px;
+	margin: 0;
+	padding: 0 300px;
+}
+
+main img{
+	max-width: 100%;
+	position: center;
+}
+
+main h2{
+	font-size: 40px;
+	color: navajowhite;
+	font-family: cursive;
+	font-style: oblique;
+	margin: 40px 0 10px;
+}
+
+
+main li{
+	font-family: inherit;
+}
+
+
+main a:hover{
+	background-color: black;
+	color: white;
+}
+
+p.caption{
+	margin-top: 0;
+	color: antiquewhite;
+	font-style: italic;
+	font-family: inherit;
+	color: black;
+	font-size: 20px;
+}
+
+/*Footer section*/
+
+footer{
+	background-color: black;
+	text-align: center;
+	padding: 50px;
+}
+
